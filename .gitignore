@@ -1,26 +1,7 @@
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# Visual Studio Code
-.vscode/
-.history/
-
-# Cursor
-.cursor/
-
-# Logs
 *.log
-
-# Temporary files
 *.tmp
 *.temp
-
-# System files
+*.bak
+Thumbs.db
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
+*.vshost.*
